@@ -1,0 +1,27 @@
+{
+  "name": "mute-color",
+  "version": "1.0.0",
+  "description": "Takes a color that's meant to stand out against your editor's background and makes it shy.",
+  "main": "mute-color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rileyjshaw/mute-color.git"
+  },
+  "keywords": [
+    "mute",
+    "color",
+    "literate",
+    "comments",
+    "programming",
+    "saturation"
+  ],
+  "author": "rileyjshaw <i@rileyjshaw.com> (http://rileyjshaw.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rileyjshaw/mute-color/issues"
+  },
+  "homepage": "https://github.com/rileyjshaw/mute-color#readme"
+}
