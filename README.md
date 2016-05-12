@@ -6,7 +6,7 @@ makes it shy. Used in [literate-theme](https://github.com/rileyjshaw/literate-th
 ## Installation
 
 ```sh
-npm i -s mute-color
+npm i -S mute-color
 ```
 
 ## Usage
