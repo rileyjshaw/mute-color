@@ -1,6 +1,6 @@
 {
   "name": "mute-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes a color that's meant to stand out against your editor's background and makes it shy.",
   "main": "mute-color.js",
   "scripts": {
